@@ -26,7 +26,7 @@ Push it to dockerhub by
     docker push <tagname>
 Deploy :D
 ## Model
-Download the tensorflow model from the following link [model](https://drive.google.com/file/d/1nQF4ZYxI9Tw3RF7oe-4eWw5WqPSaZzen/view?usp=sharing)
+Download the tensorflow model from the following [link](https://drive.google.com/file/d/1nQF4ZYxI9Tw3RF7oe-4eWw5WqPSaZzen/view?usp=sharing)
 ## Credits
 https://github.com/qqwweee/keras-yolo3 for converting the darknet model to .h5 keras model
 
