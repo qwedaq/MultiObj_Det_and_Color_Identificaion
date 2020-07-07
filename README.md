@@ -5,10 +5,10 @@ Colour blindness is a deficiency, which decreases the ability to differentiate b
 IOT Architecture and Hardware architecture
 ![alt-text](https://github.com/aveen-d/MultiObj_Det_and_Color_Identificaion/blob/master/results/iot1.png)
 
-![alt-text](https://github.com/aveen-d/MultiObj_Det_and_Color_Identificaion/blob/master/results/iot2.png)
+![alt-text](https://github.com/aveen-d/MultiObj_Det_and_Color_Identificaion/blob/master/results/iot2.PNG)
 # Results
 
-![alt-text](https://github.com/aveen-d/MultiObj_Det_and_Color_Identificaion/blob/master/results/iot3.png)
+![alt-text](https://github.com/aveen-d/MultiObj_Det_and_Color_Identificaion/blob/master/results/iot3.PNG)
 
 ## Which model to use
 Use any of the below ways to build the model. Put the .h5 model in model_data
